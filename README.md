@@ -77,4 +77,4 @@
 其余部分（包括但不限于书中提到的课程资源、开源书籍以及视频内容）遵循原作者规定的许可。
 
 
-final source for the CS CURRICULUM <a src="https://oinam.github.io/CS-curriculum/"></a>
+final source for the CS CURRICULUM https://oinam.github.io/CS-curriculum/
